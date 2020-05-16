@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Shelf
+title: Pullup Bar
 ---
 <img src="{{ site.baseurl }}/images/crafts/pullup_bar/04.jpg" alt="Finished with bar" style="width: 400px;"/>  
 <!--more-->
 This was initially going to be a pullup bar plus climbing wall combo. In the plans I had a plywood sheet attached to the non-bar half which would have some climbing holds attached. I decided to start off by making the basic pullup bar setup with no climbing wall attachment.  
-<img src="{{ site.baseurl }}/images/crafts/pullup_bar/00.jpg" alt="Plans" style="width: 400px;"/>  
+<img src="{{ site.baseurl }}/images/crafts/pullup_bar/00.PNG" alt="Plans" style="width: 400px;"/>  
 <img src="{{ site.baseurl }}/images/crafts/pullup_bar/01.jpg" alt="Flange blocks" style="width: 400px;"/>  
 <img src="{{ site.baseurl }}/images/crafts/pullup_bar/02.jpg" alt="Putting in the hinges" style="width: 400px;"/>  
 <img src="{{ site.baseurl }}/images/crafts/pullup_bar/03.jpg" alt="Hinge closeup" style="width: 400px;"/>  

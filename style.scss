@@ -266,6 +266,11 @@ nav {
   background-color: #cecece
 }
 
+.posts {
+  column-width: 36rem;
+  margin-top: 1rem
+}
+
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;

@@ -4,15 +4,15 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
+    <a href="{{ site.baseurl }}{{ post.url }}">
     <article class="post">
-      <a href="{{ site.baseurl }}{{ post.url }}">
 
       <h1>{{ post.title }}</h1>
       <div class="entry">
         {{ post.excerpt }}
       </div>
         
-      </a>
     </article>
+    </a>
   {% endfor %}
 </div>

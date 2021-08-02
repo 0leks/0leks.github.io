@@ -245,6 +245,9 @@ nav {
 // .main
 //
 
+.posts > .post > .h1 {
+  margin: 0 0 0 0;
+}
 .posts > .post {
   border-style: solid;
   border-width: 2px;
@@ -255,7 +258,7 @@ nav {
   -webkit-column-break-inside: avoid;
   page-break-inside: avoid;
   break-inside: avoid;
-  text-align: center
+  text-align: center;
 }
 .posts > .post:hover {
   background-color: #cecece

@@ -245,10 +245,10 @@ nav {
 // .main
 //
 
-.posts > .post > .h1 {
+.posts .post .h1 {
   margin: 0 0 0 0;
 }
-.posts > .post {
+.posts .post {
   border-style: solid;
   border-width: 2px;
   border-radius: .5rem;
@@ -260,7 +260,7 @@ nav {
   break-inside: avoid;
   text-align: center;
 }
-.posts > .post:hover {
+.posts .post:hover {
   background-color: #cecece
 }
 
@@ -269,7 +269,7 @@ nav {
   margin-top: 1rem
 }
 
-.posts > .post:last-child {
+.posts .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
 }

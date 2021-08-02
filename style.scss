@@ -250,6 +250,22 @@ nav {
   border-bottom: 1px solid $lightGray;
 }
 
+.posts > .post {
+  border-style: solid;
+  border-width: 2px;
+  border-radius: .5rem;
+  width: 36rem;
+  margin: 0 0 1rem 0;
+  padding: 1.25rem;
+  -webkit-column-break-inside: avoid;
+  page-break-inside: avoid;
+  break-inside: avoid;
+  text-align: center
+}
+.posts > .post:hover {
+  background-color: #cecece
+}
+
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
